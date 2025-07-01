@@ -1,7 +1,6 @@
 # Sports
 # Old Projects Collection
 
-Very old notebooks, in fact my first data science steps back in 2017.
 Welcome! This repository contains a collection of early data science projects from 2017 - my first steps into the world of data analysis and machine learning. These projects showcase explorations in sports analytics, interactive simulations, and predictive modeling across different domains.
 
 ## Projects Overview
